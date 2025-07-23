@@ -131,10 +131,14 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: newsletter
+      name: Newsletter
+      url: https://www.theanalogperspective.vaibhavkalekar.com
+      weight: 30
     - identifier: example
       name: EtherionConsulting
       url: https://www.etherionconsulting.com
-      weight: 30
+      weight: 40
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
