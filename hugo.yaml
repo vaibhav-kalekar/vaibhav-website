@@ -1,0 +1,154 @@
+baseURL: "https://examplesite.com/"
+title: Vaibhav Kalekar
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics:
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: [Vaibhav Kalekar]
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+  ShowShareButtons: true
+  ShareButtons: ["x", "linkedin", "facebook", "reddit", "bluesky", "mastodon"] # Only show these icons
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: true # needs to be explicitly set
+    title: "Hi \U0001F44B I'm Vaibhav Kalekar! "
+    subtitle: "A Data Engineer, Writer & Photography Enthusiast. Here, I share my thoughts on data engineering, technology, and photography."
+    imageUrl: "../assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Me
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    title: "Hi there \U0001F44B I'm Vaibhav Kalekar, a Data Engineer, Writer & Photography Enthusiast."
+    content: "Welcome to my digital space! Here, I share my thoughts on data engineering, technology, and photography. Join me on this journey of exploration and learning."
+  homeInfoImage:
+    imageUrl: "../assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: Me
+
+  socialIcons:
+    - name: x
+      url: "https://x.com/_vaibhavkalekar"
+    - name: BlueSky
+      url: "https://bsky.app/profile/vaibhavkalekar.com"
+    - name: github
+      url: "https://github.com/vaibhav-kalekar"
+    - name: linkedin
+      url: "https://www.linkedin.com/in/vaibhavkalekar/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: false # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: false # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    limit: 10 # refer: https://www.fusejs.io/api/methods.html#search
+    keys: ["title", "permalink", "summary", "content"]
+menu:
+  main:
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 10
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 20
+    - identifier: example
+      name: EtherionConsulting
+      url: https://www.etherionconsulting.com
+      weight: 30
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+outputs:
+  home:
+    - HTML
+    - RSS
+    - JSON # necessary for search 
+
+customCSS: ["../assets/css/custom.css"]
