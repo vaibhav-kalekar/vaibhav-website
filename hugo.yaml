@@ -62,7 +62,7 @@ params:
     enabled: true # needs to be explicitly set
     title: "Hi \U0001F44B I'm Vaibhav Kalekar! "
     subtitle: "A Data Engineer, Writer & Photography Enthusiast. Here, I share my thoughts on data engineering, technology, and photography."
-    imageUrl: "../assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
+    imageUrl: "/assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Me
@@ -77,7 +77,7 @@ params:
     title: "Hi there \U0001F44B I'm Vaibhav Kalekar, a Data Engineer, Writer & Photography Enthusiast."
     content: "Welcome to my digital space! Here, I share my thoughts on data engineering, technology, and photography. Join me on this journey of exploration and learning."
   homeInfoImage:
-    imageUrl: "../assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
+    imageUrl: "/assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: Me
