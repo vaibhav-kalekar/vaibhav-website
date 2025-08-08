@@ -2,29 +2,36 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Essay on Vaibhav Kalekar</title>
-    <link>http://localhost:65197/tags/essay/</link>
+    <link>http://localhost:1313/tags/essay/</link>
     <description>Recent content in Essay on Vaibhav Kalekar</description>
     <image>
       <title>Vaibhav Kalekar</title>
-      <url>http://localhost:65197/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>http://localhost:65197/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 12 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:65197/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The World of Arch is Fun with Omarchy</title>
+      <link>http://localhost:1313/posts/the-world-of-arch-is-fun-with-omarchy/</link>
+      <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/the-world-of-arch-is-fun-with-omarchy/</guid>
+      <description>Relearning to build my own systems with my preferences to love technology again.</description>
+    </item>
     <item>
       <title>The Perfect Future was in the Past</title>
-      <link>http://localhost:65197/posts/the-perfect-future-was-in-the-past/</link>
+      <link>http://localhost:1313/posts/the-perfect-future-was-in-the-past/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65197/posts/the-perfect-future-was-in-the-past/</guid>
+      <guid>http://localhost:1313/posts/the-perfect-future-was-in-the-past/</guid>
       <description>The world is a mess and it seems there is no way to fix it. Did we leave our perfect world behind?</description>
     </item>
     <item>
       <title>The World We Live Is Devoid Of Nuances</title>
-      <link>http://localhost:65197/posts/the-world-we-live-in-is-devoid-of-nuances/</link>
+      <link>http://localhost:1313/posts/the-world-we-live-in-is-devoid-of-nuances/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:65197/posts/the-world-we-live-in-is-devoid-of-nuances/</guid>
+      <guid>http://localhost:1313/posts/the-world-we-live-in-is-devoid-of-nuances/</guid>
       <description>When did we lose our ability to understand and balance our opinions in nuances?</description>
     </item>
   </channel>
