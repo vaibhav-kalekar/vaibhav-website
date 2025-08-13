@@ -35,7 +35,7 @@ The way I look at it, I can summarize the hyper and struggles for some of us wit
 I know these bullet points might sound a bit vague but allow me to explain it in a longer post.
 
 ## The Analog Perspective on AI
-(https://www.theanalogperspective.vaibhavkalekar.com/ai-is-this-generations-kryptonite/)[Latest Post]
+[Latest Post](https://www.theanalogperspective.vaibhavkalekar.com/ai-is-this-generations-kryptonite/)
 Read the whole perspective here and please subscribe for more such essays right into your inbox.
 
 If you want to be part of it, please subscribe here - 
