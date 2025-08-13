@@ -14,7 +14,7 @@ comments: false
 description: "Don't let the GPT-4, 5, or the mini models overtake your life. There is a sane middle ground with newer technology, as it has been the case for decades gone by."
 canonicalURL: "https://www.theanalogperspective.vaibhavkalekar.com/ai-is-this-generations-kryptonite/"
 cover:
-    image: "assets/Ai-is-generations-kryptonite" # image path/url
+    image: "assets/Ai-is-generations-kryptonite.jpeg" # image path/url
     alt: "AI" # alt text
     caption: "AI" # display caption under cover
     relative: false # when using page bundles set this to true
