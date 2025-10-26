@@ -131,9 +131,9 @@ menu:
       name: About
       url: /about/
       weight: 20
-    - identifier: newsletter
-      name: Newsletter
-      url: https://www.theanalogperspective.vaibhavkalekar.com
+    - identifier: medium
+      name: Medium
+      url: https://medium.com/@_vaibhavkalekar
       weight: 30
     - identifier: example
       name: EtherionConsulting
