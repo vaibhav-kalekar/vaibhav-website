@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Landscape on Vaibhav Kalekar</title>
+    <link>http://localhost:1313/tags/landscape/</link>
+    <description>Recent content in Landscape on Vaibhav Kalekar</description>
+    <image>
+      <title>Vaibhav Kalekar</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/landscape/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seasons - They are a changin&#39;</title>
+      <link>http://localhost:1313/photography/seasons---they-are-a-changin/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/seasons---they-are-a-changin/</guid>
+      <description>A beautiful evening in St. Leonards</description>
+    </item>
+    <item>
+      <title>Barcelona - The Beautiful Coastal City in Catalonia</title>
+      <link>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</guid>
+      <description>Barcelona: The Beautiful Coastal City of Catalonia, where the sunshine is bright and the food is delicious. From the Gothic Quarter in the city center of Barcelona to Park Güell and the Picasso Museum, the city celebrates history &amp;amp; tradition.</description>
+    </item>
+  </channel>
+</rss>

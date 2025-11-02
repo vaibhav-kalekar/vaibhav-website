@@ -11,41 +11,83 @@
     </image>
     <generator>Hugo -- 0.148.1</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Seasons - They are a changin&#39;</title>
+      <link>http://localhost:1313/photography/seasons---they-are-a-changin/</link>
+      <pubDate>Sun, 02 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/seasons---they-are-a-changin/</guid>
+      <description>A beautiful evening in St. Leonards</description>
+    </item>
+    <item>
+      <title>TUI over GUI, and we might be onto something unprecedented</title>
+      <link>http://localhost:1313/tech/tui-over-gui-and-we-might-be-onto-something-unprecedented/</link>
+      <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/tui-over-gui-and-we-might-be-onto-something-unprecedented/</guid>
+      <description>Terminal User Interface, as the name suggests, is a command-line utility with a user interface for navigation. Each application boasts a keyboard-driven user interface for increased productivity and easy navigation in the app.</description>
+    </item>
+    <item>
+      <title>AI is this generation&#39;s Kryptonite</title>
+      <link>http://localhost:1313/tech/ai-is-our-generations-kryptonite/</link>
+      <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tech/ai-is-our-generations-kryptonite/</guid>
+      <description>Don&amp;#39;t let the GPT-4, 5, or the mini models overtake your life. There is a sane middle ground with newer technology, as it has been the case for decades gone by.</description>
+    </item>
+    <item>
       <title>The World of Arch is Fun with Omarchy</title>
-      <link>http://localhost:1313/posts/the-world-of-arch-is-fun-with-omarchy/</link>
+      <link>http://localhost:1313/tech/the-world-of-arch-is-fun-with-omarchy/</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-world-of-arch-is-fun-with-omarchy/</guid>
+      <guid>http://localhost:1313/tech/the-world-of-arch-is-fun-with-omarchy/</guid>
       <description>Relearning to build my own systems with my preferences to love technology again.</description>
     </item>
     <item>
+      <title>The Archivist on the Chain - Continued</title>
+      <link>http://localhost:1313/fiction/the-archivist-on-the-chain---episode-2/</link>
+      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fiction/the-archivist-on-the-chain---episode-2/</guid>
+      <description>The world is struggling for one group of people while others revel in the destruction for their own vanity. Something is about to change and it comes from the past.</description>
+    </item>
+    <item>
+      <title>The Archivist on the Chain</title>
+      <link>http://localhost:1313/fiction/the-archivist-on-the-chain/</link>
+      <pubDate>Thu, 12 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/fiction/the-archivist-on-the-chain/</guid>
+      <description>The world is struggling for one group of people while others revel in the destruction for their own vanity. Something is about to change and it comes from the past.</description>
+    </item>
+    <item>
+      <title>Barcelona - The Beautiful Coastal City in Catalonia</title>
+      <link>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</link>
+      <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</guid>
+      <description>Barcelona: The Beautiful Coastal City of Catalonia, where the sunshine is bright and the food is delicious. From the Gothic Quarter in the city center of Barcelona to Park Güell and the Picasso Museum, the city celebrates history &amp;amp; tradition.</description>
+    </item>
+    <item>
       <title>The Perfect Future was in the Past</title>
-      <link>http://localhost:1313/posts/the-perfect-future-was-in-the-past/</link>
+      <link>http://localhost:1313/tech/the-perfect-future-was-in-the-past/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-perfect-future-was-in-the-past/</guid>
+      <guid>http://localhost:1313/tech/the-perfect-future-was-in-the-past/</guid>
       <description>The world is a mess and it seems there is no way to fix it. Did we leave our perfect world behind?</description>
     </item>
     <item>
       <title>The World We Live Is Devoid Of Nuances</title>
-      <link>http://localhost:1313/posts/the-world-we-live-in-is-devoid-of-nuances/</link>
+      <link>http://localhost:1313/tech/the-world-we-live-in-is-devoid-of-nuances/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/the-world-we-live-in-is-devoid-of-nuances/</guid>
+      <guid>http://localhost:1313/tech/the-world-we-live-in-is-devoid-of-nuances/</guid>
       <description>When did we lose our ability to understand and balance our opinions in nuances?</description>
     </item>
     <item>
       <title>Tariffs, Inflation &amp; AI - Why the World Feels More Chaotic Than Ever</title>
-      <link>http://localhost:1313/posts/tariffs-inflation--ai---why-the-world-feels-more-chaotic-than-ever/</link>
+      <link>http://localhost:1313/tech/tariffs-inflation--ai---why-the-world-feels-more-chaotic-than-ever/</link>
       <pubDate>Wed, 12 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/tariffs-inflation--ai---why-the-world-feels-more-chaotic-than-ever/</guid>
+      <guid>http://localhost:1313/tech/tariffs-inflation--ai---why-the-world-feels-more-chaotic-than-ever/</guid>
       <description>The leadership in the world has degraded drastically and so we have a choatic world where only common man suffers.</description>
     </item>
     <item>
       <title>AI &amp; Humans - How do we co-exist?</title>
-      <link>http://localhost:1313/posts/ai--humans---how-do-we-co-exist/</link>
+      <link>http://localhost:1313/tech/ai--humans---how-do-we-co-exist/</link>
       <pubDate>Mon, 10 Mar 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ai--humans---how-do-we-co-exist/</guid>
+      <guid>http://localhost:1313/tech/ai--humans---how-do-we-co-exist/</guid>
       <description>The world has become Technology first but is there a way for us to keep it Humans or Humanity first where Technology plays a supplementary role?</description>
     </item>
     <item>

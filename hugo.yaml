@@ -67,8 +67,12 @@ params:
     imageHeight: 120
     imageTitle: Me
     buttons:
-      - name: Posts
-        url: posts
+      - name: Photography
+        url: photography
+      - name: Technology
+        url: tech
+      - name: Fiction
+        url: fiction
       - name: Tags
         url: tags
 
@@ -93,6 +97,9 @@ params:
       url: "https://www.linkedin.com/in/vaibhavkalekar/"
 
   analytics:
+    umami:
+      enabled: true
+      websiteID: "7e42b104-79f9-438a-90ab-917bb500739a"
     google:
       SiteVerificationTag: "XYZabc"
     bing:
