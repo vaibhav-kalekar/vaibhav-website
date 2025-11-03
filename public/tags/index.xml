@@ -35,6 +35,13 @@
       <description></description>
     </item>
     <item>
+      <title>Amsterdam</title>
+      <link>http://localhost:1313/tags/amsterdam/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/amsterdam/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fiction</title>
       <link>http://localhost:1313/tags/fiction/</link>
       <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
@@ -46,6 +53,13 @@
       <link>http://localhost:1313/tags/barcelona/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/barcelona/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Budapest</title>
+      <link>http://localhost:1313/tags/budapest/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/budapest/</guid>
       <description></description>
     </item>
     <item>
