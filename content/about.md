@@ -6,7 +6,7 @@ url: "/about/"
 ---
 
 
-I’m Vaibhav Kalekar, Co-Founder of Etherion Consulting & writer of the publication title "The Analog Perspective".
+I’m Vaibhav Kalekar, Co-Founder of Etherion Consulting specializing in Product Quality and Data Engineering.
 
 Throughout my 20 years of career in Tech, I have worked across the entire spectrum of software engineering.
 My learnings range from domain level expertise to technical deep dive on product engineering and data engineering. I want to use my little space on internet to share my about my experiences and learnings.
@@ -18,6 +18,6 @@ In my publication I share about my photography, travel stories and snippets of m
 
 I appreciate the finer moments in this chaotic world and like to capture them with my Fujifilm X-E4 camera and Fujinon 18-55mm lens.
 
-I have lived in Mumbai, Chicago & Munich, and I am currently transitioning to a new home. I have travelled extensively across USA, Europe and India.
+I have lived in Mumbai, Chicago & Munich, and I am currently living in Sydney, Australia.
 
-Check out my newsletter - www.theanalogperspective.vaibhavkalekar.com - Do subscribe and say Hi! 
+I like to keep telling myself one thing everyday - "Change is scary but try being stuck in one place, it is petrifying."
