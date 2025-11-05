@@ -37,8 +37,6 @@ The perfect blend of Modern mixed with restored Historical features.
 I planned to spend my days working while exploring the city like a local. The morning walk along the city center to pick up coffee turned it a gazing affair between the quaint narrow lanes of the city and my camera.
 It made my day even before the hustle and bustle of a workday got me busy.
 
-![Architecture in Budapest](/assets/Budapest/Budapest04.jpg)
-
 The evenings were spent wandering the city for some pictures that I could capture while experimenting with my camera.
 Oh! The city lights up well, and people are in good spirits to end their day, no matter how hectic. I know mine was pretty busy one, and the walks along the cityscape calmed my mind and my soul.
 
