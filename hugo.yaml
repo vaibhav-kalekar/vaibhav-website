@@ -69,8 +69,8 @@ params:
     buttons:
       - name: Photography
         url: photography
-      - name: Technology
-        url: tech
+      - name: Essays
+        url: essays
       - name: Fiction
         url: fiction
       - name: Tags
