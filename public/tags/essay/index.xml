@@ -15,37 +15,37 @@
     <atom:link href="http://localhost:1313/tags/essay/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>TUI over GUI, and we might be onto something unprecedented</title>
-      <link>http://localhost:1313/tech/tui-over-gui-and-we-might-be-onto-something-unprecedented/</link>
+      <link>http://localhost:1313/essays/tui-over-gui-and-we-might-be-onto-something-unprecedented/</link>
       <pubDate>Fri, 15 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/tui-over-gui-and-we-might-be-onto-something-unprecedented/</guid>
+      <guid>http://localhost:1313/essays/tui-over-gui-and-we-might-be-onto-something-unprecedented/</guid>
       <description>Terminal User Interface, as the name suggests, is a command-line utility with a user interface for navigation. Each application boasts a keyboard-driven user interface for increased productivity and easy navigation in the app.</description>
     </item>
     <item>
       <title>AI is this generation&#39;s Kryptonite</title>
-      <link>http://localhost:1313/tech/ai-is-our-generations-kryptonite/</link>
+      <link>http://localhost:1313/essays/ai-is-our-generations-kryptonite/</link>
       <pubDate>Tue, 12 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/ai-is-our-generations-kryptonite/</guid>
+      <guid>http://localhost:1313/essays/ai-is-our-generations-kryptonite/</guid>
       <description>Don&amp;#39;t let the GPT-4, 5, or the mini models overtake your life. There is a sane middle ground with newer technology, as it has been the case for decades gone by.</description>
     </item>
     <item>
       <title>The World of Arch is Fun with Omarchy</title>
-      <link>http://localhost:1313/tech/the-world-of-arch-is-fun-with-omarchy/</link>
+      <link>http://localhost:1313/essays/the-world-of-arch-is-fun-with-omarchy/</link>
       <pubDate>Fri, 08 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/the-world-of-arch-is-fun-with-omarchy/</guid>
+      <guid>http://localhost:1313/essays/the-world-of-arch-is-fun-with-omarchy/</guid>
       <description>Relearning to build my own systems with my preferences to love technology again.</description>
     </item>
     <item>
       <title>The Perfect Future was in the Past</title>
-      <link>http://localhost:1313/tech/the-perfect-future-was-in-the-past/</link>
+      <link>http://localhost:1313/essays/the-perfect-future-was-in-the-past/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/the-perfect-future-was-in-the-past/</guid>
+      <guid>http://localhost:1313/essays/the-perfect-future-was-in-the-past/</guid>
       <description>The world is a mess and it seems there is no way to fix it. Did we leave our perfect world behind?</description>
     </item>
     <item>
       <title>The World We Live Is Devoid Of Nuances</title>
-      <link>http://localhost:1313/tech/the-world-we-live-in-is-devoid-of-nuances/</link>
+      <link>http://localhost:1313/essays/the-world-we-live-in-is-devoid-of-nuances/</link>
       <pubDate>Mon, 12 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tech/the-world-we-live-in-is-devoid-of-nuances/</guid>
+      <guid>http://localhost:1313/essays/the-world-we-live-in-is-devoid-of-nuances/</guid>
       <description>When did we lose our ability to understand and balance our opinions in nuances?</description>
     </item>
   </channel>

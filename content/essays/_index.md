@@ -1,7 +1,7 @@
 ---
-title: "Technology"
-description: "Pouring my thoughts about Technology and the Tech World"
+title: "Essays"
+description: "Pouring my thoughts about Technology and other aspects of life that makes us seem more human"
 layout: "list"
 ---
 
-Welcome to my tech blog. Here I write about my opinions and learnings from my two decades of career in Software Engineering.
+Welcome to my essays. Here I pour my heart out on varied topics ranging from Technology topics to philosophy or just day to day routine.

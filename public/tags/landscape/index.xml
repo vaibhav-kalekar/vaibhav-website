@@ -21,11 +21,25 @@
       <description>A beautiful evening in St. Leonards</description>
     </item>
     <item>
+      <title>Amsterdam - The City of Canals</title>
+      <link>http://localhost:1313/photography/amsterdam---the-city-of-canals/</link>
+      <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/amsterdam---the-city-of-canals/</guid>
+      <description>A time loop captured on Fuji non 18-55mm lens with FujiFilm X-E4</description>
+    </item>
+    <item>
       <title>Barcelona - The Beautiful Coastal City in Catalonia</title>
       <link>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</link>
       <pubDate>Wed, 04 Jun 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photography/barcelona---the-beautiful-coastal-city-in-catalonia/</guid>
       <description>Barcelona: The Beautiful Coastal City of Catalonia, where the sunshine is bright and the food is delicious. From the Gothic Quarter in the city center of Barcelona to Park Güell and the Picasso Museum, the city celebrates history &amp;amp; tradition.</description>
+    </item>
+    <item>
+      <title>Budapest - A Charming City</title>
+      <link>http://localhost:1313/photography/budapest---a-charming-city-copy/</link>
+      <pubDate>Thu, 15 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/budapest---a-charming-city-copy/</guid>
+      <description>Allow yourself to be immersed in its vibe.</description>
     </item>
   </channel>
 </rss>
