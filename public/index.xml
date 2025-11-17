@@ -14,6 +14,13 @@
     <lastBuildDate>Mon, 17 Nov 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Learning to Love a new City</title>
+      <link>http://localhost:1313/photography/learning-to-love-a-new-city/</link>
+      <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/photography/learning-to-love-a-new-city/</guid>
+      <description>The beautiful city of Sydney and the ways it is making me fall in love with it</description>
+    </item>
+    <item>
       <title>The World I want to live is not in between Past and the Future</title>
       <link>http://localhost:1313/essays/the-world-i-want-to-live-is-not-in-between-past-and-the-future/</link>
       <pubDate>Mon, 17 Nov 2025 00:00:00 +0000</pubDate>
@@ -54,13 +61,6 @@
       <pubDate>Sun, 27 Jul 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/photography/amsterdam---the-city-of-canals/</guid>
       <description>A time loop captured on Fuji non 18-55mm lens with FujiFilm X-E4</description>
-    </item>
-    <item>
-      <title>The Archivist on the Chain - Continued</title>
-      <link>http://localhost:1313/fiction/the-archivist-on-the-chain---episode-2/</link>
-      <pubDate>Sun, 15 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/fiction/the-archivist-on-the-chain---episode-2/</guid>
-      <description>The world is struggling for one group of people while others revel in the destruction for their own vanity. Something is about to change and it comes from the past.</description>
     </item>
     <item>
       <title>The Archivist on the Chain</title>
