@@ -138,14 +138,18 @@ menu:
       name: About
       url: /about/
       weight: 20
+    - identifier: stories
+      name: Stories
+      url: https://www.stories.vaibhavkalekar.com
+      weight: 30
     - identifier: medium
       name: Medium
       url: https://medium.com/@_vaibhavkalekar
-      weight: 30
+      weight: 40
     - identifier: example
       name: EtherionConsulting
       url: https://www.etherionconsulting.com
-      weight: 40
+      weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
