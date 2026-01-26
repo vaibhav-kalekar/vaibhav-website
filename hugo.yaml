@@ -140,7 +140,7 @@ menu:
       weight: 20
     - identifier: stories
       name: Stories
-      url: https://www.stories.vaibhavkalekar.com
+      url: https://stories.vaibhavkalekar.com
       weight: 30
     - identifier: medium
       name: Medium
