@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi \U0001F44B I'm Vaibhav Kalekar! "
-    subtitle: "A Data Engineer, Writer & Photography Enthusiast. Here, I share my thoughts on data engineering, technology, and photography."
+    subtitle: "Data Engineering @ Etherion 🚀 | Writer ✍️ | Photographer 📸 | Documenting the digital takeover of our analog lives. I discuss the efficacy of tech with a sprinkle of data and a lot of human skepticism | 📍 Sydney "
     imageUrl: "/assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
     imageWidth: 120
     imageHeight: 120

@@ -5,13 +5,15 @@ layout: "about"
 url: "/about/"
 ---
 
+## Hey there! 👋🏼,
 
-I’m Vaibhav Kalekar, Co-Founder of Etherion Consulting specializing in Product Quality and Data Engineering.
+I am Principal / Lead Data Engineer with 15+ years of experience designing, building, and stabilising enterprise data platforms across insurance, healthcare, and regulated environments.
 
-Throughout my 20 years of career in Tech, I have worked across the entire spectrum of software engineering.
-My learnings range from domain level expertise to technical deep dive on product engineering and data engineering. I want to use my little space on internet to share my about my experiences and learnings.
+I specialise in cloud-native data engineering, ETL/ELT pipelines, data governance, and automation, working hands-on with technologies including Python, SQL, Snowflake, DBT, Airflow, GCP, Azure, and AWS.
 
-As Co-Founder and Data Engineering Consultant at Etherion Consulting, I am involved with multiple organizations looking to revamp their Data Migration, Integration and Governance Strategies. My philosophy while working with clients is always to maximise short term gains while looking at long term benefits. You can connect with me to know more about it.
+I partner closely with engineering, analytics, product, and business stakeholders to translate complex data requirements into reliable, production-grade data systems that support reporting, analytics, and regulatory obligations.
+
+I currently operate as an independent data engineering consultant through Etherion Consulting, supporting organisations with data platform automation, quality uplift, and governance.
 
 Apart from Data Engineering, I am an avid photographer, traveller and writer.
 In my publication I share about my photography, travel stories and snippets of my creative fiction writing in the sci-fi, dystopian genre.
@@ -21,3 +23,21 @@ I appreciate the finer moments in this chaotic world and like to capture them wi
 I have lived in Mumbai, Chicago & Munich, and I am currently living in Sydney, Australia.
 
 I like to keep telling myself one thing everyday - "Change is scary but try being stuck in one place, it is petrifying."
+
+
+## Technical Skills
+Programming Language: C#, TypeScript, Python, PL/SQL
+Project Management & Collaboration: JIRA, Confluence, Monday.com, Trello, BaseCamp 
+
+Databases: MySQL, PostgreSQL, Microsoft SQL Server, Snowflake
+Cloud Technologies: GCP, Amazon Web Services, Azure
+ETL Tools: DBT, Airflow, Prefect
+Analytical Tools: HotJar, Google Analytics
+Data Visualization: Tableau, Looker, PowerBI 
+
+### Open to contract and consulting engagements across Australia (on-site, hybrid, or remote).
+
+
+To read more about my thoughts on Technology and my passions, please visit - 
+### Writing: https://stories.vaibhavkalekar.com
+### Medium: https://medium.com/@_vaibhavkalekar
