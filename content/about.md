@@ -7,22 +7,22 @@ url: "/about/"
 
 ## Hey there! 👋🏼,
 
-I am Principal / Lead Data Engineer with 15+ years of experience designing, building, and stabilising enterprise data platforms across insurance, healthcare, and regulated environments.
+I’m Vaibhav Kalekar. I’ve spent 15 years building the data infrastructure that powers the digital world — the pipelines, the platforms, the governance frameworks that make modern technology run. I’ve done this across three continents in cities like: Mumbai, Chicago, Munich, and now Sydney.
 
-I specialise in cloud-native data engineering, ETL/ELT pipelines, data governance, and automation, working hands-on with technologies including Python, SQL, Snowflake, DBT, Airflow, GCP, Azure, and AWS.
 
-I partner closely with engineering, analytics, product, and business stakeholders to translate complex data requirements into reliable, production-grade data systems that support reporting, analytics, and regulatory obligations.
+I know how the machine works. That’s exactly why I write about what it’s doing to us.
 
-I currently operate as an independent data engineering consultant through Etherion Consulting, supporting organisations with data platform automation, quality uplift, and governance.
 
-Apart from Data Engineering, I am an avid photographer, traveller and writer.
-In my publication I share about my photography, travel stories and snippets of my creative fiction writing in the sci-fi, dystopian genre.
+This publication sits at an uncomfortable intersection — between the technical and the human, the analytical and the lyrical, the world as it is being built and the world as it feels to live in. I write essays about technology, AI, and the slow erosion of things worth keeping. I write fiction to say the things that essays can’t. And I photograph the cities and landscapes I move through, because some moments deserve to be held still.
+None of this is separate. It’s all the same question: what does it mean to be human in a world being redesigned faster than we can feel it?
+I think about quitting and settling on a remote island once every quarter. I haven’t yet. Instead, I write.
 
-I appreciate the finer moments in this chaotic world and like to capture them with my Fujifilm X-E4 camera and Fujinon 18-55mm lens.
 
-I have lived in Mumbai, Chicago & Munich, and I am currently living in Sydney, Australia.
+### What you’ll find here:
 
-I like to keep telling myself one thing everyday - "Change is scary but try being stuck in one place, it is petrifying."
+Essays on technology, AI, and digital culture — written with the insider knowledge of someone who builds these systems and the skepticism of someone who doesn’t entirely trust them.
+Original fiction — speculative, grounded, occasionally uncomfortable. Storytelling without filters.
+Photography from the road — shot on a Fujifilm X-E4, cities and landscapes from a life lived across continents.
 
 
 ## Technical Skills
