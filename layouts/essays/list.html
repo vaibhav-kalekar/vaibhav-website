@@ -1,0 +1,69 @@
+{{- define "main" }}
+
+{{- $pages := .Pages.ByDate.Reverse }}
+{{- $featured := index $pages 0 }}
+{{- $rest := after 1 $pages }}
+
+<div class="essay-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="section-description">{{ .Description }}</p>
+  {{- end }}
+</div>
+
+{{/* ── Featured Post ───────────────────────── */}}
+{{- if $featured }}
+<a href="{{ $featured.Permalink }}" class="essay-featured">
+  {{- if $featured.Params.cover.image }}
+  <div class="essay-featured-image">
+    <img 
+      src="{{ $featured.Params.cover.image }}"
+      alt="{{ $featured.Params.cover.alt | default $featured.Title }}"
+      loading="eager"
+    />
+  </div>
+  {{- end }}
+  <div class="essay-featured-content">
+    <span class="essay-featured-label">Latest</span>
+    <h2>{{ $featured.Title }}</h2>
+    {{- if $featured.Description }}
+    <p>{{ $featured.Description }}</p>
+    {{- end }}
+    <div class="essay-meta">
+      <span>{{ $featured.Date.Format "January 2, 2006" }}</span>
+      <span>{{ $featured.ReadingTime }} min read</span>
+    </div>
+  </div>
+</a>
+{{- end }}
+
+{{/* ── Rest of Posts ───────────────────────── */}}
+{{- if $rest }}
+<div class="essay-grid">
+  {{- range $rest }}
+  <a href="{{ .Permalink }}" class="essay-card">
+    {{- if .Params.cover.image }}
+    <div class="essay-card-image">
+      <img 
+        src="{{ .Params.cover.image }}"
+        alt="{{ .Params.cover.alt | default .Title }}"
+        loading="lazy"
+      />
+    </div>
+    {{- end }}
+    <div class="essay-card-content">
+      <h3>{{ .Title }}</h3>
+      {{- if .Description }}
+      <p>{{ .Description }}</p>
+      {{- end }}
+      <div class="essay-meta">
+        <span>{{ .Date.Format "January 2006" }}</span>
+        <span>{{ .ReadingTime }} min read</span>
+      </div>
+    </div>
+  </a>
+  {{- end }}
+</div>
+{{- end }}
+
+{{- end }}

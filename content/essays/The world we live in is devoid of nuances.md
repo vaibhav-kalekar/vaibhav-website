@@ -14,7 +14,7 @@ comments: false
 description: "When did we lose our ability to understand and balance our opinions in nuances?"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/e79f75d2-6060-4517-8d56-7240b236a660_1024x608.webp" # image path/url
+    image: "/assets/e79f75d2-6060-4517-8d56-7240b236a660_1024x608.webp" # image path/url
     alt: "The loneliness of living in the nuance" # alt text
     caption: "Lonely World of Nuanced Opinions" # display caption under cover
     relative: false # when using page bundles set this to true

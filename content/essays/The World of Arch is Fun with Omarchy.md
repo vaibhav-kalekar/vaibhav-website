@@ -14,7 +14,7 @@ comments: false
 description: "Relearning to build my own systems with my preferences to love technology again."
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/omarchy.png" # image path/url
+    image: "/assets/omarchy.png" # image path/url
     alt: "Omarchy" # alt text
     caption: "Omarchy by dhh" # display caption under cover
     relative: false # when using page bundles set this to true

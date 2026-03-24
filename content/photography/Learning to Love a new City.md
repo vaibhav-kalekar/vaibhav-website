@@ -14,9 +14,9 @@ comments: false
 description: "The beautiful city of Sydney and the ways it is making me fall in love with it"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    image: "/assets/SydneyCBD/IMG_0363.jpeg" # image path/url
+    alt: "Sydney Harbour Bridge" # alt text
+    caption: "Sydney Harbour Bridge" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

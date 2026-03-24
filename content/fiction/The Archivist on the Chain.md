@@ -11,10 +11,12 @@ TocOpen: false
 draft: false
 hidemeta: false
 comments: false
+series: "The Archivist on the Chain"
+episode: 1
 description: "The world is struggling for one group of people while others revel in the destruction for their own vanity. Something is about to change and it comes from the past."
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/02f7f64f-861b-4430-8313-d65fa347dc1a_1024x608.webp" # image path/url
+    image: "/assets/02f7f64f-861b-4430-8313-d65fa347dc1a_1024x608.webp" # image path/url
     alt: "Eon and Xer" # alt text
     caption: "Eon & Xer" # display caption under cover
     relative: false # when using page bundles set this to true

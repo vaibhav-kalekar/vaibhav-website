@@ -14,7 +14,7 @@ comments: false
 description: "The world is a mess and it seems there is no way to fix it. Did we leave our perfect world behind?"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/52fd3edb-7775-4956-b1b5-eaff5514627b_1024x608.webp" # image path/url
+    image: "/assets/52fd3edb-7775-4956-b1b5-eaff5514627b_1024x608.webp" # image path/url
     alt: "The speed to capture the past" # alt text
     caption: "The rush to capture the past in the future" # display caption under cover
     relative: false # when using page bundles set this to true

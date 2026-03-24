@@ -1,0 +1,35 @@
+{{- define "main" }}
+
+<div class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="page-description">{{ .Description }}</p>
+  {{- end }}
+</div>
+
+<div class="photo-grid">
+  {{- range .Pages.ByDate.Reverse }}
+  <a href="{{ .Permalink }}" class="photo-grid-item">
+    {{- if .Params.cover.image }}
+    <div class="photo-grid-image">
+      <img 
+        src="{{ .Params.cover.image }}" 
+        alt="{{ .Params.cover.alt | default .Title }}"
+        loading="lazy"
+      />
+    </div>
+    {{- end }}
+    <div class="photo-grid-caption">
+      <h3>{{ .Title }}</h3>
+      {{- if .Params.location }}
+      <span class="photo-location">📍 {{ .Params.location }}</span>
+      {{- end }}
+      {{- if .Date }}
+      <span class="photo-date">{{ .Date.Format "January 2006" }}</span>
+      {{- end }}
+    </div>
+  </a>
+  {{- end }}
+</div>
+
+{{- end }}

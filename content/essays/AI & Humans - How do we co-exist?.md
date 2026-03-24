@@ -14,7 +14,7 @@ comments: false
 description: "The world has become Technology first but is there a way for us to keep it Humans or Humanity first where Technology plays a supplementary role?"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/cash-macanaya-X9Cemmq4YjM-unsplash.jpg" # image path/url
+    image: "/assets/cash-macanaya-X9Cemmq4YjM-unsplash.jpg" # image path/url
     alt: "Humans & AI" # alt text
     caption: "Humans & AI Co-exist" # display caption under cover
     relative: false # when using page bundles set this to true

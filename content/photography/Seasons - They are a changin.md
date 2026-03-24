@@ -14,9 +14,9 @@ comments: false
 description: "A beautiful evening in St. Leonards"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    image: "/assets/Sydney_Spring/Sunset_Sydney.jpeg" # image path/url
+    alt: "Sunset in Sydney" # alt text
+    caption: "Sunset in Sydney" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

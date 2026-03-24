@@ -14,7 +14,7 @@ comments: false
 description: "The leadership in the world has degraded drastically and so we have a choatic world where only common man suffers."
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "assets/aidin-geranrekab-bV_P23FXxhI-unsplash.jpg" # image path/url
+    image: "/assets/aidin-geranrekab-bV_P23FXxhI-unsplash.jpg" # image path/url
     alt: "AI & the Chaos" # alt text
     caption: "AI & the Chaos" # display caption under cover
     relative: false # when using page bundles set this to true

@@ -1,0 +1,92 @@
+{{- define "main" }}
+
+{{- $allPages := .Pages.ByDate.Reverse }}
+
+<div class="fiction-header">
+  <h1>{{ .Title }}</h1>
+  {{- if .Description }}
+  <p class="fiction-description">{{ .Description }}</p>
+  {{- end }}
+</div>
+
+{{/* ── Collect unique series names ───────────────────────── */}}
+{{- $seriesNames := slice }}
+{{- range $allPages }}
+  {{- with .Params.series }}
+    {{- if not (in $seriesNames .) }}
+      {{- $seriesNames = $seriesNames | append . }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+
+{{/* ── Render each series ──────────────────────────────────── */}}
+{{- range $seriesNames }}
+  {{- $seriesName := . }}
+  {{- $seriesPosts := slice }}
+  {{- range $allPages }}
+    {{- if eq .Params.series $seriesName }}
+      {{- $seriesPosts = $seriesPosts | append . }}
+    {{- end }}
+  {{- end }}
+
+  <div class="fiction-series">
+    <div class="fiction-series-header">
+      <span class="fiction-series-label">Series</span>
+      <h2 class="fiction-series-title">{{ $seriesName }}</h2>
+    </div>
+    <div class="fiction-series-posts">
+      {{- range sort $seriesPosts "Date" }}
+      <a href="{{ .Permalink }}" class="fiction-entry">
+        <div class="fiction-entry-meta">
+          <span class="fiction-episode">
+            {{- if .Params.episode }}Episode {{ .Params.episode }}{{ else }}Part{{ end }}
+          </span>
+          <span class="fiction-date">{{ .Date.Format "Jan 2006" }}</span>
+        </div>
+        <div class="fiction-entry-content">
+          <h3>{{ .Title }}</h3>
+          {{- if .Description }}
+          <p>{{ .Description }}</p>
+          {{- end }}
+        </div>
+        <div class="fiction-entry-arrow">→</div>
+      </a>
+      {{- end }}
+    </div>
+  </div>
+{{- end }}
+
+{{/* ── Render standalone pieces ────────────────────────────── */}}
+{{- $standalone := slice }}
+{{- range $allPages }}
+  {{- if not .Params.series }}
+    {{- $standalone = $standalone | append . }}
+  {{- end }}
+{{- end }}
+
+{{- if $standalone }}
+<div class="fiction-standalone">
+  {{- if $seriesNames }}
+  <h2 class="fiction-standalone-title">Short Fiction</h2>
+  {{- end }}
+  <div class="fiction-series-posts">
+    {{- range $standalone }}
+    <a href="{{ .Permalink }}" class="fiction-entry">
+      <div class="fiction-entry-meta">
+        <span class="fiction-episode">Short</span>
+        <span class="fiction-date">{{ .Date.Format "Jan 2006" }}</span>
+      </div>
+      <div class="fiction-entry-content">
+        <h3>{{ .Title }}</h3>
+        {{- if .Description }}
+        <p>{{ .Description }}</p>
+        {{- end }}
+      </div>
+      <div class="fiction-entry-arrow">→</div>
+    </a>
+    {{- end }}
+  </div>
+</div>
+{{- end }}
+
+{{- end }}

@@ -11,7 +11,7 @@ comments: false
 description: The World I want to live is not in between Past and the Future but its too late to go back and too soon to look ahead.
 canonicalURL:
 cover:
-    image: "assets/The-World-Between-Past-Present.jpg" # image path/url
+    image: "/assets/The-World-Between-Past-Present.jpg" # image path/url
     alt: "The World Between The Past and The Future" # alt text
     caption: "Stuck in the world between past and the future" # display caption under cover
     relative: false # when using page bundles set this to true

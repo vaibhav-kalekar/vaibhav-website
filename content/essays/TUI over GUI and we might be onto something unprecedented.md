@@ -14,7 +14,7 @@ comments: false
 description: "Terminal User Interface, as the name suggests, is a command-line utility with a user interface for navigation. Each application boasts a keyboard-driven user interface for increased productivity and easy navigation in the app."
 canonicalURL: "https://www.theanalogperspective.vaibhavkalekar.com/tui-over-gui-and-we-might-be-onto-something-unprecedented/"
 cover:
-    image: "assets/tui-over-gui.png" # image path/url
+    image: "/assets/tui-over-gui.png" # image path/url
     alt: "TUI over GUI" # alt text
     caption: "TUI over GUI" # display caption under cover
     relative: false # when using page bundles set this to true

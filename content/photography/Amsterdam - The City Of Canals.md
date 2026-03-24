@@ -14,9 +14,9 @@ comments: false
 description: "A time loop captured on Fuji non 18-55mm lens with FujiFilm X-E4"
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    image: "/assets/Amsterdam/Amsterdam_First_Canal.jpg" # image path/url
+    alt: "Canal in Amsterdam" # alt text
+    caption: "anal in Amsterdam" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---

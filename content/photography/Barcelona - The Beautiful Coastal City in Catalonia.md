@@ -14,9 +14,9 @@ comments: false
 description: "Barcelona: The Beautiful Coastal City of Catalonia, where the sunshine is bright and the food is delicious. From the Gothic Quarter in the city center of Barcelona to Park Güell and the Picasso Museum, the city celebrates history & tradition."
 canonicalURL: "https://canonical.url/to/page"
 cover:
-    image: "" # image path/url
-    alt: "" # alt text
-    caption: "" # display caption under cover
+    image: "/assets/Barcelona/Barcelona-39.jpg" # image path/url
+    alt: "Street Art in Barcelona" # alt text
+    caption: "Street Art in Barcelona" # display caption under cover
     relative: false # when using page bundles set this to true
     hidden: false # only hide on current single page
 ---
