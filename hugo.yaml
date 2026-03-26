@@ -61,7 +61,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: "Hi \U0001F44B I'm Vaibhav Kalekar! "
-    subtitle: "Fractional Data Leader | Writer | Photographer | Asking what technology is doing to us — from Sydney, on the fringes"
+    subtitle: "Principal Data Engineer & Data Platform Lead | Writer | Photographer | Asking what technology is doing to us — from Sydney, on the fringes"
     imageUrl: "/assets/bafkreihdlk6ofkdwnfe7tphbq3ls5wrwmasregmzrcbhfnk2zqbb6r4vqm.jpg"
     imageWidth: 120
     imageHeight: 120
