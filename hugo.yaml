@@ -24,7 +24,7 @@ params:
   DateFormat: "January 2, 2006"
   defaultTheme: auto # dark, light
   disableThemeToggle: false
-
+  ShowTaxonomy: false
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -101,11 +101,11 @@ params:
       enabled: true
       websiteID: "7e42b104-79f9-438a-90ab-917bb500739a"
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
     bing:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
     yandex:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: ""
 
   cover:
     hidden: false # hide everywhere but not in structured data
@@ -172,6 +172,10 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON # necessary for search 
+    - JSON # necessary for search
+  taxonomy:
+    - HTML
+  taxonomyTerm:
+    - HTML
 
 customCSS: ["../assets/css/custom.css"]
