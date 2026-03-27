@@ -657,3 +657,57 @@
 .stream-nav-next {
   margin-left: auto;
 }
+
+
+/* ─── Stream Collapsible Entries ─────────────────────────── */
+
+.stream-entry-details {
+  width: 100%;
+}
+
+.stream-entry-summary {
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: var(--secondary);
+  padding: 0.35rem 0;
+  list-style: none;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  user-select: none;
+  transition: color 0.15s ease;
+}
+
+/* Remove default triangle on Safari */
+.stream-entry-summary::-webkit-details-marker {
+  display: none;
+}
+
+/* Custom expand indicator */
+.stream-entry-summary::before {
+  content: "▶";
+  font-size: 0.6rem;
+  color: var(--secondary);
+  opacity: 0.5;
+  transition: transform 0.2s ease;
+  flex-shrink: 0;
+}
+
+.stream-entry-details[open] .stream-entry-summary::before {
+  transform: rotate(90deg);
+}
+
+.stream-entry-details[open] .stream-entry-summary {
+  color: var(--primary);
+  margin-bottom: 0.5rem;
+}
+
+.stream-entry-summary:hover {
+  color: var(--primary);
+}
+
+.stream-entry-content {
+  padding-left: 1rem;
+  border-left: 2px solid var(--border);
+  margin-top: 0.25rem;
+}

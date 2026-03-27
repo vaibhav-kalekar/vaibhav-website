@@ -38,9 +38,19 @@
         #
       </a>
     </div>
-    <div class="stream-entry-content">
-      {{ .Content }}
-    </div>
+    <details class="stream-entry-details" 
+             {{- if le (sub now.Unix .Date.Unix) 259200 }} open{{- end }}>
+      <summary class="stream-entry-summary">
+        {{- if .Summary }}
+          {{ .Summary | plainify | truncate 120 "..." }}
+        {{- else }}
+          {{ .Date.Format "Mon 2 Jan" }} — click to read
+        {{- end }}
+      </summary>
+      <div class="stream-entry-content">
+        {{ .Content }}
+      </div>
+    </details>
     {{- if .Params.crosspost }}
     <div class="stream-crosspost">
       {{- range $platform, $url := .Params.crosspost }}
