@@ -7,14 +7,13 @@ date: 2026-03-24
 
 ## What I'm focused on right now
 
-**Work:** Building the consulting practice at Etherion — fractional data leadership 
+**Work:** Building the consulting practice at Etherion — Data Engineering leadership 
 for regulated industries in Australia. Recent past I have been working with an insurance client 
 on data platform governance and automation. Open for new opportunities
 
-**Writing:** Launching yet to be named publication on Substack with Shweta on data, 
-leadership, and organisational transformation.
+**Writing:** On Bytes from Etherion, a Substack Newsletter about data engineering, leadership, and organisational transformation.
 
-**Reading:** Reading DAMA for the certification
+**Reading:** Reading DAMA for the certification & Killing Commendatore from Haruki Murakami
 
 **Photography:** Working on a project to click city life in Sydney
 
