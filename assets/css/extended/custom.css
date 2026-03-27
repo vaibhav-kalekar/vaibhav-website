@@ -426,3 +426,234 @@
     gap: 0.75rem;
   }
 }
+
+/* ─── Stream Page ─────────────────────────────────────────── */
+
+.stream-header {
+  margin-bottom: 2.5rem;
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+.stream-description {
+  color: var(--secondary);
+  font-size: 1rem;
+  margin-top: 0.5rem;
+  font-style: italic;
+}
+
+/* Feed container */
+.stream-feed {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+/* Month group */
+.stream-month-group {
+  margin-bottom: 3rem;
+}
+
+.stream-month-label {
+  font-size: 0.75rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--secondary);
+  margin-bottom: 1.25rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--border);
+}
+
+/* Individual entry */
+.stream-entry {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 1rem;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--border);
+}
+
+.stream-entry:last-child {
+  border-bottom: none;
+}
+
+/* Entry meta */
+.stream-entry-meta {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 0.4rem;
+  padding-top: 0.15rem;
+}
+
+.stream-date {
+  font-size: 0.78rem;
+  color: var(--secondary);
+  font-weight: 500;
+  white-space: nowrap;
+}
+
+.stream-permalink {
+  font-size: 0.78rem;
+  color: var(--secondary);
+  opacity: 0.4;
+  text-decoration: none;
+  font-weight: 700;
+  transition: opacity 0.15s ease;
+}
+
+.stream-permalink:hover {
+  opacity: 1;
+  color: #2E75B6;
+}
+
+/* Platform badges */
+.stream-platforms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3rem;
+}
+
+.stream-platform {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  padding: 0.15rem 0.4rem;
+  border-radius: 3px;
+  opacity: 0.7;
+}
+
+.stream-platform-linkedin {
+  background: rgba(10, 102, 194, 0.15);
+  color: #0A66C2;
+}
+
+.stream-platform-bluesky {
+  background: rgba(0, 133, 255, 0.12);
+  color: #0085FF;
+}
+
+.stream-platform-substack {
+  background: rgba(255, 103, 25, 0.12);
+  color: #FF6719;
+}
+
+.stream-platform-x {
+  background: rgba(var(--primary-rgb, 255,255,255), 0.1);
+  color: var(--primary);
+}
+
+/* Entry content */
+.stream-entry-content {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  color: var(--primary);
+}
+
+.stream-entry-content p {
+  margin: 0 0 0.75rem 0;
+}
+
+.stream-entry-content p:last-child {
+  margin-bottom: 0;
+}
+
+/* Crosspost links */
+.stream-crosspost {
+  grid-column: 2;
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  flex-wrap: wrap;
+  margin-top: 0.5rem;
+  font-size: 0.78rem;
+}
+
+.stream-crosspost-link {
+  text-decoration: none;
+  opacity: 0.6;
+  transition: opacity 0.15s ease;
+}
+
+.stream-crosspost-link:hover {
+  opacity: 1;
+}
+
+.stream-crosspost-linkedin { color: #0A66C2; }
+.stream-crosspost-bluesky  { color: #0085FF; }
+.stream-crosspost-substack { color: #FF6719; }
+.stream-crosspost-x        { color: var(--primary); }
+
+/* Mobile */
+@media (max-width: 600px) {
+  .stream-entry {
+    grid-template-columns: 1fr;
+    gap: 0.5rem;
+  }
+
+  .stream-entry-meta {
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.5rem;
+  }
+
+  .stream-crosspost {
+    grid-column: 1;
+  }
+}
+
+/* ─── Stream Single Post ──────────────────────────────────── */
+
+.stream-single {
+  max-width: 680px;
+}
+
+.stream-single-meta {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+  font-size: 0.85rem;
+  color: var(--secondary);
+}
+
+.stream-back {
+  color: var(--secondary);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.stream-back:hover {
+  color: var(--primary);
+}
+
+.stream-single-content {
+  font-size: 1rem;
+  line-height: 1.7;
+  margin-bottom: 2rem;
+}
+
+.stream-single-nav {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
+  margin-top: 2rem;
+}
+
+.stream-nav-link {
+  font-size: 0.85rem;
+  color: var(--secondary);
+  text-decoration: none;
+}
+
+.stream-nav-link:hover {
+  color: var(--primary);
+}
+
+.stream-nav-next {
+  margin-left: auto;
+}

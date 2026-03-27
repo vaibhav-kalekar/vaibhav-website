@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Stream on Vaibhav Kalekar</title>
+    <link>http://localhost:1313/stream/</link>
+    <description>Recent content in Stream on Vaibhav Kalekar</description>
+    <image>
+      <title>Vaibhav Kalekar</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 27 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/stream/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-27-data-governance/</link>
+      <pubDate>Fri, 27 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-27-data-governance/</guid>
+      <description>&lt;p&gt;Data governance can be tedious, overbearing and complicated — especially for small teams who just want quick, reliable answers from their data.&lt;/p&gt;
+&lt;p&gt;LLMs are powerful but hallucinate. For governance purposes, that’s a dealbreaker.
+So what if you grounded it strictly in your own metadata — no guessing, no fabrication, just your data answering for itself?&lt;/p&gt;
+&lt;p&gt;A weekend project to implement something like it? Open source, lightweight, and something most data engineers could spin up without a vendor conversation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-26-digital-regulations/</link>
+      <pubDate>Thu, 26 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-26-digital-regulations/</guid>
+      <description>&lt;p&gt;As digital regulations like age verification reshape the internet, businesses are entering a new era of regulated data responsibility.&lt;/p&gt;
+&lt;p&gt;What was once simple user data is now evolving into high-risk identity data—biometrics, government IDs, and verified age signals. This shift demands more than just compliance checklists. It requires a fundamental rethink of data governance and engineering.&lt;/p&gt;
+&lt;p&gt;Businesses need to stay ahead by embedding governance directly into their data architecture.&lt;/p&gt;
+&lt;p&gt;Few points to consider while organisations are navigating this shift:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-25-ai-agents-data-engg/</link>
+      <pubDate>Wed, 25 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-25-ai-agents-data-engg/</guid>
+      <description>&lt;p&gt;AI Agents are quietly reshaping what it means to be a Data Engineer.&lt;/p&gt;
+&lt;p&gt;The work is shifting — less time optimising SQL and orchestrating pipelines, more time designing scalable frameworks and governance structures for AI to operate within.&lt;/p&gt;
+&lt;p&gt;That sounds like an evolution. But here&amp;rsquo;s the uncomfortable part: the architectural judgment and domain knowledge that used to take years to develop? It&amp;rsquo;s increasingly a prompt away.&lt;/p&gt;
+&lt;p&gt;The Data Engineering world is going to feel this shift all at once — and most teams are still heads down in the day-to-day to see it coming.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-21-california-age-verification/</link>
+      <pubDate>Sat, 21 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-21-california-age-verification/</guid>
+      <description>&lt;p&gt;California now requires all OS providers to collect age data just to run an operating system.&lt;/p&gt;
+&lt;p&gt;Australia&amp;rsquo;s Online Safety Act mandates age verification for social media and R-rated gaming.&lt;/p&gt;
+&lt;p&gt;The Digital ID push is accelerating across both countries.&lt;/p&gt;
+&lt;p&gt;Noble intent. Genuinely.&lt;/p&gt;
+&lt;p&gt;But every one of these policies has the same blind spot:&lt;/p&gt;
+&lt;p&gt;They legislate what data to collect. Not what happens to it after.&lt;/p&gt;
+&lt;p&gt;From a data governance and engineering perspective, this isn&amp;rsquo;t just a privacy concern — it&amp;rsquo;s a platform stress test that most organisations are not ready for.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-20-self-host-company-stack/</link>
+      <pubDate>Fri, 20 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-20-self-host-company-stack/</guid>
+      <description>&lt;p&gt;Here is a great initiative to try your luck at self hosting -&lt;/p&gt;
+&lt;p&gt;x.com/dhh/status/203358…&lt;/p&gt;
+&lt;p&gt;I self hosted Campfire and Writebook for internal chat and documentation on my own server. Seamless set up and even added a sub domain for overall access.&lt;/p&gt;
+&lt;p&gt;Just starting with Fizzy and liking it so far and will self host it as well.&lt;/p&gt;
+&lt;p&gt;One of the main reasons to self host some of these services is the availability of software like ONCE which makes it easy to set up and maintain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/stream/2026-03-19-best-boutique-agency-etherion/</link>
+      <pubDate>Thu, 19 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/stream/2026-03-19-best-boutique-agency-etherion/</guid>
+      <description>&lt;p&gt;🏆 We&amp;rsquo;re proud to share that Etherion Consulting LLP has been named Best Boutique Data-Driven Transformation Consultancy 2025 by Wealth &amp;amp; Finance International — Management Consulting Awards.&lt;/p&gt;
+&lt;p&gt;We received this recognition in November 2025, and we&amp;rsquo;ve been sitting with it ever since — because it means more to us than a trophy on a shelf.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

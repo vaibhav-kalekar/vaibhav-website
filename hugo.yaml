@@ -142,6 +142,10 @@ menu:
       name: Now
       url: /now/
       weight: 25
+    - identifier: stream
+      name: Stream
+      url: /stream/
+      weight: 27
     - identifier: photography
       name: Photography
       url: /photography/
