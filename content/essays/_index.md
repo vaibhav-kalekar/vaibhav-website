@@ -1,6 +1,6 @@
 ---
 title: "Essays"
-description: "Pouring my thoughts about Technology and other aspects of life that makes us seem more human"
+description: "Critical essays on technology, culture and the analog life surviving inside a digital world — written by someone who builds the systems and isn't always sure he should."
 layout: "list"
 ---
 

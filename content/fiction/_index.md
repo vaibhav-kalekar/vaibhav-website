@@ -1,6 +1,6 @@
 ---
 title: "Fiction"
-description: "Telling Stories that capture your imagination"
+description: "Speculative fiction set in worlds that technology built and humans are still trying to survive. Currently: The Archivist on the Chain."
 layout: "list"
 ---
 
