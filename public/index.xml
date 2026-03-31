@@ -199,7 +199,10 @@ So what if you grounded it strictly in your own metadata — no guessing, no fab
       <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/about/</guid>
-      <description>about</description>
+      <description>&lt;h2 id=&#34;hey-there-&#34;&gt;Hey there! 👋🏼&lt;/h2&gt;
+&lt;p&gt;I’m Vaibhav Kalekar. Principal Data Engineer with 15 years of experience building the data infrastructure that powers the digital world — the pipelines, the platforms, the governance frameworks that make modern technology run. I’ve done this across three continents in cities like: &lt;strong&gt;Mumbai, Chicago, Munich, and now Sydney.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I know how the machine works. That’s exactly why I write about what it’s doing to us.&lt;/p&gt;
+&lt;p&gt;My writing sits at an uncomfortable intersection — between the technical and the human, the analytical and the lyrical, the world as it is being built and the world as it feels to live in. I write essays about technology, AI, and the slow erosion of things worth keeping. I write fiction to say the things that essays can’t. And I photograph the cities and landscapes I move through, because some moments deserve to be held still.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

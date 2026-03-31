@@ -1,14 +1,13 @@
-<div style="text-align:center; padding: 1rem 0; border-top: 1px solid var(--border);">
-  <p style="margin-bottom: 1rem;">
-    <strong>Newsletter to discuss Data Engineering</strong><br>
-    <span style="color: var(--secondary);">
-      Discussion on the latest tools, platforms and trends in Data Engineering. No fluff, just the good stuff.
-    </span>
+{{- if eq .Section "work-with-me" }}
+  {{- partial "newsletter-substack.html" . }}
+
+{{- else if or (eq .Section "essays") (eq .Section "fiction") (eq .Section "photography")}}
+  {{- partial "newsletter-buttondown.html" . }}
+{{- end }}
+
+<!-- Copyright Section -->
+<div style="text-align: center; padding: 2rem 1rem 1rem; border-top: 1px solid var(--border); margin-top: 3rem;">
+  <p style="margin: 0; color: var(--secondary); font-size: 0.9rem;">
+    &copy; {{ now.Year }} <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a>. All rights reserved.
   </p>
-  <a href="https://bytesfrometherion.substack.com" 
-     style="background: var(--primary); color: var(--theme); 
-            padding: 0.5rem 1rem; border-radius: 2px; 
-            text-decoration: none; font-weight: bold;">
-    Subscribe on Substack →
-  </a>
 </div>

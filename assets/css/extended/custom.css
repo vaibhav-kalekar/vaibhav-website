@@ -711,3 +711,167 @@
   border-left: 2px solid var(--border);
   margin-top: 0.25rem;
 }
+
+
+
+
+
+/* ─── Newsletter Forms — Shared Base ─────────────────────── */
+
+.newsletter-form {
+  margin-top: 3rem;
+  padding: 1.75rem;
+  background: var(--entry);
+  border: 1px solid var(--border);
+  border-radius: 0 8px 8px 0;
+}
+
+.newsletter-form-header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.5rem;
+}
+
+.newsletter-form-header h3 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin: 0;
+}
+
+.newsletter-badge {
+  font-size: 0.65rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0.15rem 0.5rem;
+  border-radius: 3px;
+}
+
+.newsletter-form > p {
+  font-size: 0.875rem;
+  color: var(--secondary);
+  margin: 0 0 1.1rem 0;
+  line-height: 1.55;
+}
+
+.newsletter-form-row {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.newsletter-form-row input {
+  flex: 1;
+  padding: 0.5rem 0.75rem;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  background: var(--theme);
+  color: var(--primary);
+  font-size: 0.9rem;
+  outline: none;
+  transition: border-color 0.15s ease;
+}
+
+.newsletter-form-row input:focus {
+  border-color: currentColor;
+}
+
+.newsletter-form-row button {
+  padding: 0.5rem 1.25rem;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.2s ease;
+}
+
+.newsletter-form-row button:hover {
+  opacity: 0.85;
+}
+
+.newsletter-form-note {
+  font-size: 0.75rem;
+  color: var(--secondary);
+  opacity: 0.8;
+  margin: 0.6rem 0 0 0;
+  line-height: 1.5;
+}
+
+.newsletter-form-note a {
+  text-decoration: underline;
+}
+
+@media (max-width: 500px) {
+  .newsletter-form-row {
+    flex-direction: column;
+  }
+  .newsletter-form-row button {
+    width: 100%;
+  }
+}
+
+/* ─── Buttondown variant (creative sections) ──────────────── */
+
+.newsletter-form--buttondown {
+  border-left: 3px solid #2E75B6;
+}
+
+.newsletter-form--buttondown .newsletter-badge {
+  background: rgba(46, 117, 182, 0.12);
+  color: #2E75B6;
+}
+
+.newsletter-form--buttondown .newsletter-form-note a {
+  color: #2E75B6;
+}
+
+.newsletter-form--buttondown .newsletter-form-row button {
+  background: #1F3864;
+}
+
+.newsletter-form--buttondown .newsletter-form-row input:focus {
+  border-color: #2E75B6;
+}
+
+/* ─── Substack variant (work / DE page) ──────────────────── */
+
+.newsletter-form--substack {
+  border-left: 3px solid #FF6719;
+}
+
+.newsletter-form--substack .newsletter-badge--technical {
+  background: rgba(255, 103, 25, 0.12);
+  color: #FF6719;
+}
+
+.newsletter-form--substack .newsletter-form-row button {
+  background: #FF6719;
+}
+
+.newsletter-form--substack .newsletter-form-row input:focus {
+  border-color: #FF6719;
+}
+
+.newsletter-substack-link {
+  display: inline-block;
+  margin-top: 0.85rem;
+  font-size: 0.8rem;
+  color: #FF6719;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.newsletter-substack-link:hover {
+  text-decoration: underline;
+}
+
+/* ─── Related CTA wrapper ─────────────────────────────────── */
+
+.related-cta {
+  margin-top: 3rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
+}

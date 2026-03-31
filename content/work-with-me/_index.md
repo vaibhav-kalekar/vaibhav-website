@@ -1,7 +1,6 @@
 ---
 title: "Work With Me"
-description: "Fractional data leadership and consulting for regulated industries 
-in Australia. Healthcare, insurance, financial services."
+description: "Principal Data Engineer and consulting for regulated industries in Australia. Healthcare, insurance, financial services."
 hidemeta: true
 showtoc: false
 ---
@@ -16,7 +15,7 @@ enterprise data platforms without the overhead of a full-time hire.
 
 ### How I engage
 
-**Fractional CDO**
+**Data Engineering**
 Ongoing strategic data leadership for organisations that need senior 
 expertise without a full-time hire. Typically a retainer engagement across 
 three to six months.

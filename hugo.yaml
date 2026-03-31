@@ -42,6 +42,8 @@ params:
   tocopen: false
   ShowShareButtons: true
   ShareButtons: ["x", "linkedin", "bluesky", "mastodon"] # Only show these icons
+  footer:
+    hideCopyright: true
 
   assets:
     # disableHLJS: true # to disable highlight.js
@@ -69,8 +71,10 @@ params:
     buttons:
       - name: Work With Me
         url: /work-with-me/
-      - name: Tags
-        url: tags
+      - name: About
+        url: /about/
+      - name: Now
+        url: /now/
 
   # home-info mode
   homeInfoParams:
@@ -134,14 +138,6 @@ menu:
       name: Search
       url: /search/
       weight: 10
-    - identifier: about
-      name: About
-      url: /about/
-      weight: 20
-    - identifier: now
-      name: Now
-      url: /now/
-      weight: 25
     - identifier: stream
       name: Stream
       url: /stream/
@@ -161,7 +157,9 @@ menu:
     - identifier: consulting
       name: Consulting
       url: https://www.etherionconsulting.com
+      openInNewTab: true
       weight: 50
+    
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:

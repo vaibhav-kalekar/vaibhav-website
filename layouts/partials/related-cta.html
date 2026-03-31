@@ -1,0 +1,15 @@
+{{/* 
+  related-cta.html
+  Shows section-appropriate newsletter form at the bottom of each post.
+  
+  Essays, Fiction, Photography → Buttondown (From the Fringes)
+  Work page → handled directly in the page, not via this partial
+*/}}
+
+{{- $section := .Section }}
+
+{{- if or (eq $section "essays") (eq $section "fiction") (eq $section "photography") }}
+<div class="related-cta">
+  {{- partial "newsletter-buttondown.html" . }}
+</div>
+{{- end }}

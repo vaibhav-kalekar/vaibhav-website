@@ -1,7 +1,5 @@
 ---
 title: "About" # in any language you want
-summary: "about"
-layout: "about"
 url: "/about/"
 ---
 
